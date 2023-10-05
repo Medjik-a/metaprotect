@@ -1,0 +1,9 @@
+pandas==1.4.2
+sqlalchemy==1.4.46
+python-dotenv
+psycopg2==2.9.5
+openpyxl
+pyodbc
+sqlvalidator
+requests
+pyarmor
